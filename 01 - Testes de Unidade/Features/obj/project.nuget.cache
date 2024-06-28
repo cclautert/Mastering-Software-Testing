@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MVCV1/nSPfA=",
+  "dgSpecHash": "cQP5OLOsHlY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Source\\Repos\\cclautert\\Mastering-Software-Testing\\01 - Testes de Unidade\\Features\\Features.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\Mastering-Software-Testing\\01 - Testes de Unidade\\Features\\Features.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",

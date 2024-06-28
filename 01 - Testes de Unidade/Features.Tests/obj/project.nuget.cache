@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+/MNsmyU0uw=",
+  "dgSpecHash": "+0mh47n7V3g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Source\\Repos\\cclautert\\Mastering-Software-Testing\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\Mastering-Software-Testing\\01 - Testes de Unidade\\Features.Tests\\Features.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CiCJ/Z9ghF4=",
+  "dgSpecHash": "ypZLiAHChR8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Cristiano\\Source\\Repos\\cclautert\\Mastering-Software-Testing\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Cristiano\\source\\repos\\cclautert\\Mastering-Software-Testing\\01 - Testes de Unidade\\Demo.Tests\\Demo.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Cristiano\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Cristiano\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
