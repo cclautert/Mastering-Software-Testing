@@ -1,0 +1,13 @@
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\bin\Debug\net7.0\Features.deps.json
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\bin\Debug\net7.0\Features.dll
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\bin\Debug\net7.0\Features.pdb
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.csproj.AssemblyReference.cache
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.AssemblyInfoInputs.cache
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.AssemblyInfo.cs
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.csproj.CoreCompileInputs.cache
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.sourcelink.json
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.dll
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\refint\Features.dll
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\Features.pdb
+C:\Users\Cristiano\Source\Repos\cclautert\Mastering-Software-Testing\01 - Testes de Unidade\Features\obj\Debug\net7.0\ref\Features.dll
